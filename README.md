@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0048-rotate-image) |
+| [0342-power-of-four](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
