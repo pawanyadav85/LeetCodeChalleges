@@ -6,6 +6,6 @@ class Solution {
                 min = i;
             }
         }
-        return min;
+        return min ;
     }
 }
