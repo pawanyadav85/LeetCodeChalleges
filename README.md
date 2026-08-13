@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0073-set-matrix-zeroes) |
+| [0387-first-unique-character-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
@@ -63,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
