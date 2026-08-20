@@ -1,28 +1,26 @@
 class Solution {
-    public int longestConsecutive(int[] arr) {
-        if(arr.length == 0){
+    public int longestConsecutive(int[] nums) {
+       int n = nums.length;
+        if(n == 0){
             return 0;
         }
-        Arrays.sort(arr);
-        int prev = arr[0];
-        int max = 1;
+        Arrays.sort(nums);
         int count = 1;
-        for(int i = 1 ; i < arr.length; i++){
-            if(arr[i] == prev){
+        int prev = nums[0];
+        int max = 1;
+        
+        for(int i = 1 ; i < n ; i++ ){
+            if(nums[i] == prev){
                 continue;
-            }else if(arr[i] == prev + 1){
+            }else if(nums[i] == prev + 1){
                 count ++;
-                prev = arr[i];
+                prev = nums[i]; 
             }else{
-                count = 1;
-                prev = arr[i];
+              count = 1;
+              prev = nums[i];
             }
-            max = Math.max(max,count);
+            max = Math.max(count,max);
         }
         return max;
     }
 }
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
