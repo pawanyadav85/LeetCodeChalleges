@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0540-single-element-in-a-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1021-remove-outermost-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
