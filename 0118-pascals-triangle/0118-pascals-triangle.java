@@ -2,6 +2,7 @@ class Solution {
     public List<List<Integer>> generate(int numRows) {
         // Create a Array List
         List<List<Integer>> ans = new ArrayList<>();
+        // nums of row agar zero ho gaya to ohi return kar do 
         if(numRows == 0){
             return ans;
         }
@@ -9,6 +10,7 @@ class Solution {
         List<Integer> firstRow = new ArrayList<>();
         firstRow.add(1);
         ans.add(firstRow);
+
         //agar first baar me hi 1 hi row pe khatam ho jaye 
         if(numRows == 1){
             return ans;
@@ -19,9 +21,7 @@ class Solution {
             ArrayList<Integer> row = new ArrayList<>();
             row.add(1);
             for(int j = 0 ; j < i - 1 ; j++){
-                row.add(prevRow.get(j) + prevRow.get(j + 1));
-                
-                
+                row.add(prevRow.get(j) + prevRow.get(j + 1));   
             }
             row.add(1);
             ans.add(row);
