@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0035-search-insert-position) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
