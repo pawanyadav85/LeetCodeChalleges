@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0160-intersection-of-two-linked-lists) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -144,5 +146,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
