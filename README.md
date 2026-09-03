@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0160-intersection-of-two-linked-lists) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
