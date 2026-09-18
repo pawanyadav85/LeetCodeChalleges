@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
