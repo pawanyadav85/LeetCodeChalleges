@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -210,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
