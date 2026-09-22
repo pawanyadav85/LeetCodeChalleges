@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0503-next-greater-element-ii) |
@@ -211,6 +213,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
