@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1903-largest-odd-number-in-string) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1944-number-of-visible-people-in-a-queue) |
