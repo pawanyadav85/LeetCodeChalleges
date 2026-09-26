@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0342-power-of-four) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2487-remove-nodes-from-linked-list) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
