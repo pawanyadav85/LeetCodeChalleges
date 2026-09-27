@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0342-power-of-four) |
 | [1903-largest-odd-number-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1903-largest-odd-number-in-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0206-reverse-linked-list) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0061-rotate-list) |
