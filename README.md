@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0144-binary-tree-preorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
