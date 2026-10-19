@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
