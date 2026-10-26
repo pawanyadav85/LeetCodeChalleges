@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0875-koko-eating-bananas) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0645-set-mismatch) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Simulation
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
