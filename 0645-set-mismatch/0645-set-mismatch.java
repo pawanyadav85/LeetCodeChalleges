@@ -1,29 +1,21 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int n = nums.length;
-        int missing = 1;
-        int dublicate = 0;
-        int j;
-        for (int i = 0; i < n; i++) {
-            for (j = i + 1; j < n; j++) {
-                if (nums[i] == nums[j]) {
-                    dublicate = nums[i];
-                    break;
-                }
-            }
-            if (j != n) {
+        //find dublicate element 
+        Arrays.sort(nums);
+        int dublicate = 0 ;
+        for(int i = 0 ; i < nums.length - 1; i++){
+            if(nums[i] == nums[i + 1]){
+                dublicate = nums[i];
                 break;
             }
         }
-        while (missing <= n) {
-            int i ;
-            for ( i = 0; i < n; i++) {
-                if (missing == nums[i]) {
-                    break;
-                }
-            }
-            if(i == nums.length){
+        //find the mismatch element 
+        int missing = 1;
+        for(int i = 0 ; i < nums.length ;i++){
+            if(missing != nums[i]){
                 break;
+            }else if(missing == dublicate){
+                i++;
             }
             missing ++;
         }
