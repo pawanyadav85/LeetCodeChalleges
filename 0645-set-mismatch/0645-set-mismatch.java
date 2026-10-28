@@ -1,24 +1,19 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        //find dublicate element 
-        Arrays.sort(nums);
-        int dublicate = 0 ;
-        for(int i = 0 ; i < nums.length - 1; i++){
-            if(nums[i] == nums[i + 1]){
-                dublicate = nums[i];
+        Set<Integer> set = new HashSet<>();
+        int dublicate = 0;
+        for(int num : nums){
+            if(!set.add(num)){
+                dublicate = num;
+            }
+        }
+        int missing = 0;
+        for(int i = 1; i <= nums.length; i++){
+            if(!set.contains(i)){
+                missing = i;
                 break;
             }
         }
-        //find the mismatch element 
-        int missing = 1;
-        for(int i = 0 ; i < nums.length ;i++){
-            if(missing != nums[i]){
-                break;
-            }else if(missing == dublicate){
-                i++;
-            }
-            missing ++;
-        }
-        return new int[]{dublicate , missing};
+        return new int[]{dublicate , missing };
     }
 }
