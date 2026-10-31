@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0503-next-greater-element-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0303-range-sum-query-immutable) |
 ## Memoization
 |  |
 | ------- |
