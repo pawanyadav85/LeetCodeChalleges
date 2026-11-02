@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0540-single-element-in-a-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1903-largest-odd-number-in-string) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
