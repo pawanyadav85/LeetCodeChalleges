@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1480-running-sum-of-1d-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
