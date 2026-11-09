@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0645-set-mismatch) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0523-continuous-subarray-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1903-largest-odd-number-in-string) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0645-set-mismatch) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1480-running-sum-of-1d-array) |
@@ -348,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0112-path-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
