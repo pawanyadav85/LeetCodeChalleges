@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0543-diameter-of-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -385,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0075-sort-colors) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
