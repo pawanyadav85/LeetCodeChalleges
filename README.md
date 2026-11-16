@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1480-running-sum-of-1d-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -408,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
