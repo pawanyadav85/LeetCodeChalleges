@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0523-continuous-subarray-sum) |
