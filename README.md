@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1903-largest-odd-number-in-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
