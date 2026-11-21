@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0349-intersection-of-two-arrays) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0239-sliding-window-maximum) |
 ## Design
 |  |
 | ------- |
@@ -427,10 +430,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
