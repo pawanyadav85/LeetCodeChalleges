@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0875-koko-eating-bananas) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0645-set-mismatch) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0992-subarrays-with-k-different-integers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Simulation
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0992-subarrays-with-k-different-integers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/pawanyadav85/LeetCodeChalleges/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
