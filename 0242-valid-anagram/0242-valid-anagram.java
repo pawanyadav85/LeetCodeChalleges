@@ -3,12 +3,19 @@ class Solution {
         if(s.length() != t.length()){
             return false;
         }
-        char[] arr1 = s.toCharArray();
-        char[] arr2 = t.toCharArray();
-        Arrays.sort(arr1);
-        Arrays.sort(arr2);
-        for(int i = 0 ; i < arr1.length; i++){
-            if(arr1[i] != arr2[i]){
+        HashMap<Character,Integer> map1 = new HashMap<>();
+        for(char ele : s.toCharArray()){
+            map1.put(ele,map1.getOrDefault(ele,0) + 1);
+        }
+        HashMap<Character,Integer> map2 = new HashMap<>();
+        for(char ele : t.toCharArray()){
+        map2.put(ele,map2.getOrDefault(ele,0) + 1);
+        }
+        for(char ele : map1.keySet()){
+            if(!map2.containsKey(ele)){
+                return false;
+            }
+            if(!map1.get(ele).equals(map2.get(ele))){
                 return false;
             }
         }
